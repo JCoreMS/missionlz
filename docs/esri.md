@@ -100,7 +100,7 @@ You must have [Owner RBAC permissions](https://docs.microsoft.com/en-us/azure/ro
 
 ## Azure Zero Trust Imaging
 
-This [Azure Zero Trust Imaging](https://github.com/Azure/missionlz/blob/main/src/bicep/add-ons/Imaging/README.md) solution creates images using a zero trust process and resources. While other options exist in Azure, its either a manual process or it doesn't adhere to zero trust.
+This [Azure Zero Trust Imaging](https://github.com/Azure/missionlz/blob/main/src/bicep/add-ons/imaging/README.md) solution creates images using a zero trust process and resources. While other options exist in Azure, its either a manual process or it doesn't adhere to zero trust.
 
 <!-- markdownlint-disable MD013 -->
 1. Deploy Zero Trust Imaging into `AzureCloud` or `AzureUsGovernment` from the Azure Portal:
